@@ -1,0 +1,13 @@
+{
+  "name": "app1",
+  "version": "1.0.0",
+  "description": "APP simple",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "echo 'No hay proceso de build en este ejemplo'"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
